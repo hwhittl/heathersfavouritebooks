@@ -1,11 +1,11 @@
 objectid,title,format,filename,author,datepublished,isbn,illustrator,publishinglocation
-item1,The Hunger Games,image/jpeg,IMG1,Suzanne Collins,2008,9780439023481,Tim O'Brien,United States
-item2,The Blue Castle,image/jpeg,IMG2,L.M. Montgomery,1926,,,Canada
-item3,Love and Salt Water,image/jpeg,IMG3,Ethel Wilson,1956,,,Canada
-item4,Station Eleven,image/jpeg,IMG4,Emily St. John Mandel,2014,9780385353304,,United States
-item5,We Have Always Lived in the Caslte,image/jpeg,IMG5,Shirley Jackson,1962,143039970,Thomas Ott,North America
-item6,Theory,image/jpeg,IMG6,Dionne Brand,2018,9780345808882,,Canada
-item7,The Piano Man's Daughter,image/jpeg,IMG7,Timothy Findley,1994,,,Canada
-item8,Away from the Dead,image/jpeg,IMG8,David Bergen,2023,9781773103105,,Canada
-item9,Frankenstein,image/jpeg,IMG9,Mary Shelley,1818,9780143131847,,United Kingdom
-item10,The Land of Forgotten Girls,image/jpeg,IMG10,Erin Entranda Kelly,2016,9780062238658,,United States
+item1,The Hunger Games,image/png,IMG1,Suzanne Collins,2008,9780439023481,Tim O'Brien,United States
+item2,The Blue Castle,image/png,IMG2,L.M. Montgomery,1926,,,Canada
+item3,Love and Salt Water,image/png,IMG3,Ethel Wilson,1956,,,Canada
+item4,Station Eleven,image/png,IMG4,Emily St. John Mandel,2014,9780385353304,,United States
+item5,We Have Always Lived in the Caslte,image/png,IMG5,Shirley Jackson,1962,143039970,Thomas Ott,North America
+item6,Theory,image/png,IMG6,Dionne Brand,2018,9780345808882,,Canada
+item7,The Piano Man's Daughter,image/png,IMG7,Timothy Findley,1994,,,Canada
+item8,Away from the Dead,image/png,IMG8,David Bergen,2023,9781773103105,,Canada
+item9,Frankenstein,image/png,IMG9,Mary Shelley,1818,9780143131847,,United Kingdom
+item10,The Land of Forgotten Girls,image/png,IMG10,Erin Entranda Kelly,2016,9780062238658,,United States
